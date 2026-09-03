@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+matplotlib
+scikit-learn
+tensorflow
+geopandas
+imageio
+shap
+pyarrow
